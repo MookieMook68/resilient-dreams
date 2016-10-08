@@ -140,7 +140,7 @@ h4{
 	
 }
 
-/*.btn{
+.btn{
 	background-color:#4d79ff;
 	border:none;
 	color:#fff;
@@ -160,7 +160,7 @@ h4{
 	.btn i{
 		padding-right: 10px;
 	}
-*/
+
 input.btn{
 	background-color:#4d79ff;
 }
